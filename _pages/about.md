@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: 集え！ エレクトロニクス／メカトロニクス／ロボット・エンジニア。
 
 profile:
   align: right
@@ -13,12 +13,39 @@ profile:
     <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**三鷹ハードウェアエンジニアカフェ**とは、エレクトロニクス／メカトロニクス／ロボット等の各分野におけるエンジニアの**人的・技術的な交流を目的**とした集まりです。 以下の分野のエンジニアの方々を対象と しています：
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+#### 【対象とするエンジニア】
+* **プリント基板の設計エンジニア**
+* **マイコン／マイコン基板のハードウェア設計エンジニア**
+* **マイコンのファームウェア開発エンジニア**
+* **FPGAの設計エンジニア**
+* **SoC、ASIC、スタンダードセル、およびフルカスタムLSIの設計エンジニア**
+* **各種ロボットの設計エンジニア**
+* **メカトロニクスの設計エンジニア**
+* **電子部品の設計エンジニア**
+* **アナログ回路の設計エンジニア**
+* **高周波回路の設計エンジニア**
+* **パワーエレクトロニクス回路の設計エンジニア**
+等々
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+#### 【活動内容】
+　月に１回程度、週末の午後に集まりハードウェア技術に関するライトニング・トークや雑談などをワイワイガヤガヤとやっています。 決まったタイム・テーブルはありません。最新のハードウェア技術の紹介およびハードウェアに関してご自分がこのようなものをお作りになられたというような内容の飛び入りのライトニング・トークを歓迎いたします。 会場には無線LAN設備がありますので、 ノートパソコン／タブレットをご持参いただきますとより楽しめるかと思われます。 入退室自由です。
+
+#### 【参加費】
+<b><font color=red>２０１９年９月より再び無料になりました。</font></b> ただし、会場にて出席者の方がご注文の飲み物は有料となります。 なお、会場にて発生しましたごみは必ずお持ち帰りください。
+
+##### 【会場の許容人数】
+　地下１階セミナールームにて開催の場合、会場には８名までしか入場できませんので、たとえば**補欠の方がご来場いただきましてもお帰りいただくことになります。**なにとぞご了承ください。
+
+#### 【懇親会】
+　当日懇親会にご参加希望の方が３名以上いらっしゃれば、**同じビル１階のレストラン「ハイ・ファミリア」**にて**１７時過ぎより懇親会（飲み会兼お茶会）**を開催いたします。
+
+#### 【お問い合わせ先】
+　三鷹ハードウェアエンジニアカフェへのお問い合わせは以下の メールアドレスへお願いいたします：
+hwcafe.jp @ gmail.com
+（←「@」の両側の半角スペースを削除してご使用ください。）
