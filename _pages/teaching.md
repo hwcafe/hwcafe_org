@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: 規約・著作権
+description: 三鷹ハードウェアエンジニアカフェへご出席いただく方が守っていただくべき規約を定めました。
 nav: true
 ---
 

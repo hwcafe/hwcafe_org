@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: 定例会 
+description: 月に１回程度、週末の午後に三々五々集まってハードウェア技術に関するよもやま話をしています。
 img: /assets/img/12.jpg
 importance: 1
 category: work

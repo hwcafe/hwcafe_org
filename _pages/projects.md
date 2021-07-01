@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: 日常の活動
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 三鷹ハードウェアエンジニアカフェは、以下の様な活動を行っています。
 nav: true
 display_categories: [work, fun]
 horizontal: false
