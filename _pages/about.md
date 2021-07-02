@@ -47,5 +47,5 @@ social: true  # includes social icons at the bottom of the page
 
 #### 【お問い合わせ先】
 　三鷹ハードウェアエンジニアカフェへのお問い合わせは以下の メールアドレスへお願いいたします：
-hwcafe.jp @ gmail.com
-（←「@」の両側の半角スペースを削除してご使用ください。）
+hwcafe.jp at gmail.com
+（←「at」を「@」に読みかえ、@の両側の半角スペースを削除してご使用ください。）
