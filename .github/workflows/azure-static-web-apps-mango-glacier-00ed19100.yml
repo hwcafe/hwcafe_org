@@ -18,6 +18,16 @@ jobs:
       - uses: actions/checkout@v2
         with:
           submodules: true
+      ### Add Azure static Web apps build settings
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+      - name: Install dependencies
+        run: bundle install
+      - name: Jekyll build
+        run: bundle exec jekyll build
+      ### End of addtion.
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
