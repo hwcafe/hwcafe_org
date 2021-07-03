@@ -20,9 +20,9 @@ jobs:
           submodules: true
       ### Add azure static web apps build settings
       - name: Set up Ruby
-        uses: ruby/setup-ruby@ec106b438a1ff6ff109590de34ddc62c540232e0
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.6
+          ruby-version: 2.7
 
       - name: Install dependencies
         run: bundle install
